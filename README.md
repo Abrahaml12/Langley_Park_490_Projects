@@ -38,5 +38,17 @@ LPCA group that the Service Directory should be built via Leaflet.js, which is a
 and allows for search bar functionality as well as location grouping, that we later uploaded through the backend and integrated with the main site. 
 
 ## Wireframes
+<img width="251" alt="Screenshot 2024-12-10 at 4 02 00 PM" src="https://github.com/user-attachments/assets/10da1b62-a4c2-425b-b1ec-baa2cb10a226" />
+<img width="140" alt="Screenshot 2024-12-10 at 4 01 48 PM" src="https://github.com/user-attachments/assets/82c58994-46d7-4214-ace6-0dc76bcaea7c" />
+<img width="455" alt="Screenshot 2024-12-10 at 4 01 29 PM" src="https://github.com/user-attachments/assets/5a7a3c0e-8405-414b-b546-17d6e6139bb1" />
+<img width="454" alt="Screenshot 2024-12-10 at 4 01 18 PM" src="https://github.com/user-attachments/assets/32059490-02e8-4dba-8741-1d0799a0b166" />
+<img width="453" alt="Screenshot 2024-12-10 at 4 01 06 PM" src="https://github.com/user-attachments/assets/6e03c33e-22ee-4144-926f-9e4b2d526edc" />
+<img width="263" alt="Screenshot 2024-12-10 at 4 00 55 PM" src="https://github.com/user-attachments/assets/762e5ad9-6996-4f85-8651-e5c5dde4ff32" />
 
 ## Final Product Examples
+<img width="1440" alt="Screenshot 2024-12-11 at 2 56 06 PM" src="https://github.com/user-attachments/assets/33f50f4b-3211-494c-8672-b8359d219aa9" />
+<img width="1440" alt="Screenshot 2024-12-11 at 2 55 57 PM" src="https://github.com/user-attachments/assets/c48adcfa-5b7b-4140-b9bd-0753e5f2601d" />
+<img width="1440" alt="Screenshot 2024-12-11 at 2 55 49 PM" src="https://github.com/user-attachments/assets/3cf1ac4e-a6ea-471b-9f75-3ee69dcb4e48" />
+<img width="1440" alt="Screenshot 2024-12-11 at 2 55 38 PM" src="https://github.com/user-attachments/assets/e80950b6-738d-42ea-9b41-ebc3637dd59b" />
+<img width="1440" alt="Screenshot 2024-12-11 at 2 55 24 PM" src="https://github.com/user-attachments/assets/fdf50e45-ec94-45be-b1fd-f0e517f1e389" />
+<img width="1440" alt="Screenshot 2024-12-11 at 2 55 11 PM" src="https://github.com/user-attachments/assets/d789e294-103c-4d83-b75d-84e3f825493c" />
